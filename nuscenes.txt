@@ -1,0 +1,11 @@
+v1.0-trainval_meta.tgz https://s3.amazonaws.com/data.nuscenes.org/public/v1.0/v1.0-trainval_meta.tgz?AWSAccessKeyId=AKIA6RIK4RRMFUKM7AM2&Signature=0bSp6zMbYsx5l7Z8nm1fIhnmNIc%3D&Expires=1656477220
+v1.0-trainval01_keyframes.tgz https://s3.amazonaws.com/data.nuscenes.org/public/v1.0/v1.0-trainval01_keyframes.tgz?AWSAccessKeyId=AKIA6RIK4RRMFUKM7AM2&Signature=B4cqy%2Bd55eGnU%2Boucgjs27Cg%2BJI%3D&Expires=1656474159
+v1.0-trainval02_keyframes.tgz https://s3.amazonaws.com/data.nuscenes.org/public/v1.0/v1.0-trainval02_keyframes.tgz?AWSAccessKeyId=AKIA6RIK4RRMFUKM7AM2&Signature=SYZDs2Igix1jQDId%2BZ6H0yl3f8U%3D&Expires=1656474325
+v1.0-trainval03_keyframes.tgz https://s3.amazonaws.com/data.nuscenes.org/public/v1.0/v1.0-trainval03_keyframes.tgz?AWSAccessKeyId=AKIA6RIK4RRMFUKM7AM2&Signature=1o%2FPKaQsJdf%2BCCDOBehvmPp8lwU%3D&Expires=1656474419
+v1.0-trainval04_keyframes.tgz https://s3.amazonaws.com/data.nuscenes.org/public/v1.0/v1.0-trainval04_keyframes.tgz?AWSAccessKeyId=AKIA6RIK4RRMFUKM7AM2&Signature=BQPbdS%2F6ZvFDKHL0wn2c2UHRezs%3D&Expires=1656474468
+v1.0-trainval05_keyframes.tgz https://s3.amazonaws.com/data.nuscenes.org/public/v1.0/v1.0-trainval05_keyframes.tgz?AWSAccessKeyId=AKIA6RIK4RRMFUKM7AM2&Signature=dMV1%2BBu6ekPN5WQp5swvRZO%2FF5I%3D&Expires=1656474487
+v1.0-trainval06_keyframes.tgz https://s3.amazonaws.com/data.nuscenes.org/public/v1.0/v1.0-trainval06_keyframes.tgz?AWSAccessKeyId=AKIA6RIK4RRMFUKM7AM2&Signature=ToMf0KCsMCuFHCFBfQEw0u6YrM8%3D&Expires=1656474503
+v1.0-trainval07_keyframes.tgz https://s3.amazonaws.com/data.nuscenes.org/public/v1.0/v1.0-trainval07_keyframes.tgz?AWSAccessKeyId=AKIA6RIK4RRMFUKM7AM2&Signature=9%2BDMOrLJKRiYDLWxkIFzIPYE2yY%3D&Expires=1656474550
+v1.0-trainval08_keyframes.tgz https://s3.amazonaws.com/data.nuscenes.org/public/v1.0/v1.0-trainval08_keyframes.tgz?AWSAccessKeyId=AKIA6RIK4RRMFUKM7AM2&Signature=R2SarSvaSaZHK%2FRwwstCUv%2FwO7Y%3D&Expires=1656474568
+v1.0-trainval09_keyframes.tgz https://s3.amazonaws.com/data.nuscenes.org/public/v1.0/v1.0-trainval09_keyframes.tgz?AWSAccessKeyId=AKIA6RIK4RRMFUKM7AM2&Signature=nPL33i40cW4WX4xfPtRUQdPLxQE%3D&Expires=1656474584
+v1.0-trainval10_keyframes.tgz https://s3.amazonaws.com/data.nuscenes.org/public/v1.0/v1.0-trainval10_keyframes.tgz?AWSAccessKeyId=AKIA6RIK4RRMFUKM7AM2&Signature=%2BoZ4GMQbBCgE%2B%2Ff%2BT2VbPPkpQyk%3D&Expires=1656474608
